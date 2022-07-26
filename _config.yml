@@ -20,8 +20,8 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-  ganalytics: G-G8J5CWCG0L 
-  # ganalytics: UA-113961478-1
+ganalytics: G-G8J5CWCG0L 
+# ganalytics: UA-113961478-1
 
 # Authors
 authors:
