@@ -20,7 +20,8 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+  ganalytics: G-G8J5CWCG0L 
+  # ganalytics: UA-113961478-1
 
 # Authors
 authors:
@@ -46,6 +47,13 @@ social:
   instagram: https://www.instagram.com/bootstrapstarter/
   facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
   twitter: https://twitter.com/bstartercom
+
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+  homepage: "pages"
 
 # Plugins
 plugins: 
