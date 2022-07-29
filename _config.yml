@@ -25,14 +25,14 @@ ganalytics: G-G8J5CWCG0L
 
 # Authors
 authors:
-  sal:
-    name: Slayerofallx
-    display_name: Slayerofallx
-    avatar: 'assets/images/sal.png'
-    email: slayerofallx@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/slayerofallx
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  # sal:
+  #   name: Slayerofallx
+  #   display_name: Slayerofallx
+  #   avatar: 'assets/images/sal.png'
+  #   email: slayerofallx@gmail.com
+  #   web: https://www.wowthemes.net/category/jekyll-themes/
+  #   twitter: https://twitter.com/slayerofallx
+  #   description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
     display_name: John
