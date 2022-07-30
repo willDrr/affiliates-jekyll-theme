@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Destinos La Fortuna"
-author: slayerofall 
+author: slayerofallx 
 categories: [ La Fortuna, Viajes, Termales ]
 image: assets/images/5-Hot-Springs-ret.jpg
 ---
