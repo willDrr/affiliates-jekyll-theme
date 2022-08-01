@@ -49,6 +49,12 @@ background: '/img/bg-index.jpg'
         {% include postbox.html %}
       </div>
       {% endunless %}
+      {% if forloop.index == 2 %}
+      {% include adsense.html %}
+      {% endif %}
+      {% if forloop.index == 6 %}
+      {% include adsense2.html %}
+      {% endif %}
       {% endfor %}
     </div>
     <!-- Pagination -->
