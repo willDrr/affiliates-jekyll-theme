@@ -1,5 +1,5 @@
-# Affiliates - Free Jekyll Theme
+# La Fortuna Web Site, showing some spots from my town
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
-
-![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)
+In this blog, I'll show some of the highlights from my town, places that I think
+are a must to visit, or at least have it in your list the next time you want
+to visit Costa Rica and La Fortuna, San Carlos town...
