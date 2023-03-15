@@ -1,7 +1,7 @@
 title: "La Fortuna website"
 email: slayerofallx@gmail.com
 timezone: UTC
-baseurl: "lafortunasc.info"
+baseurl: "159.223.105.208"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
