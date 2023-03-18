@@ -8,6 +8,7 @@ favicon: 'assets/images/favicon.ico'
 author: slayerofallx
 paginate: 30
 disqus: 'demowebsite'
+google_analytics: G-TQFP705EK6
 locale: en_us
 lang: en_us
 feed_items: 10
