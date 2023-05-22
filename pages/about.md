@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: About La Fotuna S.C
 permalink: "/about/"
-image: assets/images/slayerofallx.png
+image: assets/images/dont_panic_just_chill.jpg
 ---
-
-# About La Fortuna 
 
 Welcome to LaFortunaSC, your personal guide to the hidden gems and local favorites of La Fortuna and beyond.
 
