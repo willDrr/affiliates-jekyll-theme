@@ -21,3 +21,13 @@ recordar unir el branch master con feature, hay un cambio por empujar
 - Push to server with the command `JEKYLL_ENV=production bundle exec jekyll build --config _config_prod.yml`, and
 remove the 'n' flag to push definitely(since the 'n' flag just run dry...)
 - JEKYLL_ENV=production bundle exec jekyll build --config _config_prod.yml
+
+# To achieve compresing of images that will comply with google light house score, use the next imagemagick command
+
+convert filename.format \
+-sampling-factor 4:2:0 \
+-strip \
+-quality 85 \
+-interlace JPEG \
+-colorspace RGB \
+filename_512x512_optimized.format
